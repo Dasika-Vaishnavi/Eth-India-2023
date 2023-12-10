@@ -1,14 +1,11 @@
-![Sharemate Logo](https://res.cloudinary.com/dgoldjr3g/image/upload/v1688866430/NegProjects/favicon_idgipx.jpg)
-
+# CharCha
 #### A Social Media App to connect with people
 
 > Share anything and everything!
 
 ## How to install and run locally?
 
-```
-$ git clone https://github.com/BhumikaSingh-27/ShareMate.git
-$ cd sharemate
+``
 $ npm install
 $ npm start
 ```
@@ -44,5 +41,3 @@ $ npm start
 - mockBee backend
 - React Toastify
 
-## Video -
-https://www.loom.com/share/13cf6aa5519940a08840f6f6ce954726
