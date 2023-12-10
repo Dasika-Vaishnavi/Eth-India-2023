@@ -2,7 +2,7 @@
 #### Your Space, Your Voice: Experience Secure, Private Social Media with Direct Earnings, Transparent Governance, and Universal Interoperability.
 
 > Share anything and everything!
-
+#### [Charcha a simple demo](https://www.loom.com/share/d94512fd7748458c9a3035ad67a46359?sid=cb467fdd-4f54-4d73-83f3-a11775464bd9)
 #### Some Important deployment links corresponding to Charcha
 * [Link to the Charcha graph and subgraph](https://thegraph.com/studio/subgraph/charcha_new/)
 * [Link to Charcha Dapp smart contract deployment](https://goerli.etherscan.io/address/0x01967c02d4975d2d7d936f7a41cc3522efe1e57b)
