@@ -1,0 +1,23 @@
+specVersion: 0.0.2
+schema:
+  file: ./schema.graphql
+dataSources:
+  - kind: ethereum/contract
+    name: charcha.sol
+    network: goerli
+    source:
+      address: "0x01967c02d4975d2d7d936f7a41cc3522efe1e57b"
+      abi: YourContractNameABI
+    mapping:
+      kind: ethereum/events
+      apiVersion: 0.0.4
+      language: wasm/assemblyscript
+      entities:
+        - YourEntity
+      abis:
+        - name: YourContractNameABI
+          file: ./abis/YourContractName.json
+      eventHandlers:
+        - event: YourEvent(...)
+          handler: handleYourEvent
+      file: ./src/mapping.ts
